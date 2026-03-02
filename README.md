@@ -6,7 +6,7 @@ AI-enabled inline system for real-time estimation of sugar percentage (Pol%) in 
 > Problem Statement: Precision AI for Cane Quality Assessment
 
 ---
-
+# RIGHT NOW THIS IS IN DEVELOPMENT STAGES, AND TILL NOW ONLY A SMALL ML PIPELINE MADE AND WHERE THE MODEL WORKS ON SYNTHETIC DATASET 
 ## Overview
 
 Traditional Pol% measurement relies on laboratory testing, which introduces delays and limits real-time process optimization. This can result in sucrose losses, process variability, and delayed corrective action.
