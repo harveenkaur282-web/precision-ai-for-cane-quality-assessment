@@ -37,7 +37,7 @@ The proposed system follows a layered architecture:
    - Historical trend analysis
    - Alert system
 
- Refer to `/docs/architecture_diagram.png`
+ Refer to `/docs/images/architecture_diagram.png`
 
 ---
 
